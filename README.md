@@ -12,8 +12,7 @@ Process Monitoring: Track and manage scraping processes with progress indicators
 🚀 Installation
 To install and run the Scraping Interface application from source, follow these steps:
 
-Clone the repository:
-git clone https://github.com/gonzalopezgil/scraping-interface.git
+
 Install the required dependencies:
 pip install -r requirements.txt
 Run the application:
